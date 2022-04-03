@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# course_manager
-Aplicação front-end de gerenciamento de cursos
+# CourseManager - Aplicação front-end de gerenciamento de cursos
 =======
-# CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
